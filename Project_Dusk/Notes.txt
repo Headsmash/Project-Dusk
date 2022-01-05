@@ -1,0 +1,22 @@
+﻿Notes for the software.
+---------------------------------------------------------------------------
+Order of operations.
+
+1) Enter the job number ----------
+2) Choose the item type (Clear, Smoked, glass? and metal?)---------
+3) Enter the length---------
+4) Enter the width-----------
+5) Enter the quantity-----------------
+6) Add the measurements and the quantity to the list-----------
+7) Add as many as the job requires----------------
+8) Run the program to construct the panels----------------
+9) The program goes through each of the items on the list and adds one for each quantity of the panels.---------------------
+10) Then the list is ordered from largest length to the shortest----------------
+11) Write Preprocessor----------
+12) Create one panel at a time that stacks bottom to top.
+13) Calculate the left over space. Compare the size of the next one. If fits the longest dimension, put it on the sheet. If it doesn't fit, skip it. If it does fit, delete it from the list. If the sheet is full, put in the post processor. 
+
+
+*************************************************STUFF TO FIX***********************************************
+
+- Create Load button. Make it so that if there is a job number and type in the field, it will automatically load the one from that job or make an OpenFileDialog box open to load the .gpcs file. Then once opened, just adds the items to the list boxes.

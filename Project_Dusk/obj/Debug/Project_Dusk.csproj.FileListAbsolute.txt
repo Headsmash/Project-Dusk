@@ -1,0 +1,12 @@
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\obj\Debug\Project_Dusk.csproj.AssemblyReference.cache
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\obj\Debug\Project_Dusk.csproj.SuggestedBindingRedirects.cache
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\obj\Debug\Project_Dusk.Form1.resources
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\obj\Debug\Project_Dusk.csproj.GenerateResource.cache
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\obj\Debug\Project_Dusk.csproj.CoreCompileInputs.cache
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\obj\Debug\Project_Dusk.Preferences.resources
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\bin\Debug\GPCS.exe.config
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\bin\Debug\GPCS.exe
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\bin\Debug\GPCS.pdb
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\obj\Debug\GPCS.Properties.Resources.resources
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\obj\Debug\GPCS.exe
+C:\Users\fchri\source\repos\Project_Dusk\Project_Dusk\obj\Debug\GPCS.pdb
